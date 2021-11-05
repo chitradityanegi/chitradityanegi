@@ -1,4 +1,4 @@
-### Heyo👋
+### Hey👋
 ### 👨‍🎓 I'm a Business Management Student @ IIM Rohtak
 Currently enrolled in the 5-year IPM Course
 ### 📎 I'm currently learning Data Analytics
