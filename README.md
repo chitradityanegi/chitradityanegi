@@ -1,4 +1,10 @@
 ### Hi there 👋
+### 👨‍🎓 I'm a Business Management Student @ IIM Rohtak
+Currently enrolled in the 5-year IPM Course
+### 📎 I'm currently learning Data Analytics
+I'm looking for help with Live Analytics Projects and Public Competitions
+### 🥁 Fun Fact : I play the drums
+Watch my latest drum covers at Instagram : @chitradityanegi
 
 <!--
 **chitradityanegi/chitradityanegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
